@@ -1,0 +1,5 @@
+__pycache__
+gitter.egg-info
+setup.py
+.gitter
+.idea
